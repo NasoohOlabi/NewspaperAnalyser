@@ -1,4 +1,8 @@
 # Newspaper Analyser #
+A simple tool that takes a zip of images and return the faces that are in the papers that include a certain keyword that is set by the script.
+
+# Description #
+
 1. The script takes a .zip file containing images and decompress them in a new file with the same name
 2. Then it processes one image at a time
 3. Each image then processed through a face detection filter 
